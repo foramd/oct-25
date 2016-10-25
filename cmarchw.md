@@ -1,4 +1,4 @@
-## Whistler Blackhome
+## Whistler Blackcomb
 
 #### Places to Eat
 ###### Pita Inn
