@@ -1,7 +1,5 @@
 # Buffalo Grove
 
+### Places to eat
 
-
-## Places to eat
-
-## Places to go
+### Places to go
