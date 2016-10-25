@@ -1,9 +1,11 @@
+#Batangas city
 
-see the basilia
-visit the beach
+##Places to visit
+- see the basilia
+- visit the beach
+- visit SBC
+- visit taal volcano
 
-visit SBC
-visit taal volcano
-
-This is line 1
+##Things to do
+- eat, eat, eat
 
